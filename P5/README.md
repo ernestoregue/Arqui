@@ -4,3 +4,4 @@ parte fundamental para el ESCOMIPS ya que la mayoria de las instrucciones
 usan los Registros.
 Las funciones que tiene son para rellenar los registros, obtener la info 
 de ellos, operaciones con los registros, lecturas y demás.
+
