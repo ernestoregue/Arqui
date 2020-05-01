@@ -14,4 +14,4 @@ efectuar os corrimientos o el demultiplexor para elegir en que Registro se va a 
 
 Para esta práctica no se realizó la prueba en tarjeta. En cambio se recurrio al uso de archivos para almacenar los resultados
 + Para las [Instrucciones](INSTRUCCIONES.txt) se lee la linea completa, el programa la interpreta y escribe
-en un archivo de [Resultados](RESULTADO.txt)
+en un archivo de [Resultados](RESULTADO.TXT)
